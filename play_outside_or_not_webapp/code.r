@@ -7,6 +7,7 @@ library(shinythemes)
 library(data.table)
 library(RCurl)
 library(randomForest)
+library(dplyr)
 
 # Read data
 weather <- read.csv(text = getURL("https://raw.githubusercontent.com/dataprofessor/data/master/weather-weka.csv") )
