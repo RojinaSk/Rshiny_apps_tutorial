@@ -1,2 +1,2 @@
 # Rshiny_apps
-I followed th Rshiny Tutorial from the shiny.posit.co website. 
+I followed thr Rshiny web app making tutorial from the shiny.posit.co website. 
